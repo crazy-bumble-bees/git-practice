@@ -2,4 +2,4 @@
 
 # git clone <url>
 
-# git commit
+# git commit -m message
